@@ -1,2 +1,12 @@
-# About ME
-My name is tomiwa, I am a cloud engineer, I love to read books, listen to music and music podcasts.
+Hi there 👋, I am Tomiwa!
+
+Cloud|DevOps
+
+Blog: https://medium.com/@tomiwaaribisala
+
+Skills
+- Linux
+- Bash scripting
+- Python (scripting)
+- AWS
+
