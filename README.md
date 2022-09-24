@@ -1,10 +1,10 @@
-Hi there 👋, I am Tomiwa!
+# Hi there 👋, I am Tomiwa!
 
 Cloud|DevOps
 
 Blog: https://medium.com/@tomiwaaribisala
 
-Skills
+# Skills
 - Linux
 - Bash scripting
 - Python (scripting)
