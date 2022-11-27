@@ -1,12 +1,23 @@
 # Hi there 👋, I am Tomiwa!
 
-Cloud|DevOps
-
-Blog: https://medium.com/@tomiwaaribisala
+Passionate about learning everything Cloud/DevOps.
 
 # Skills
 - Linux
+- HTML 
+- CSS 
+- JavaScript
+- Git 
 - Bash scripting
-- Python (scripting)
+- Python
 - AWS
+- GitHub Actions 
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Prometheus
+
+Blog: https://medium.com/@tomiwaaribisala
 
