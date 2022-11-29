@@ -7,8 +7,9 @@ Passionate about learning everything Cloud/DevOps.
 - HTML 
 - CSS 
 - JavaScript
-- Git 
-- Bash scripting
+- Git
+- Technical Writing 
+- Bash Scripting
 - Python
 - AWS
 - GitHub Actions 
