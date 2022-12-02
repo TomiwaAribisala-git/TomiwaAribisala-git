@@ -8,7 +8,7 @@ Passionate about learning everything Cloud/DevOps.
 - CSS 
 - JavaScript
 - Git
-- Technical Writing(https://bit.ly/3FimWWh)
+- Technical Writing
 - Bash Scripting
 - Python
 - AWS
