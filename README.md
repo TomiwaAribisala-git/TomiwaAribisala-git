@@ -1,4 +1,4 @@
-# Hi there 👋, I am Tomiwa!
+## Hi there 👋, I am Tomiwa!
 I am a DevOps Engineer currently building projects, contributing to OSS, and interested in everything Cloud-Native.
 
 ## My Skills
@@ -6,5 +6,6 @@ I am a DevOps Engineer currently building projects, contributing to OSS, and int
 
 ## Personal Interests
 Music, Books, and Podcasts. Currently listening to [The UnderWorld Podcast](https://podcasts.apple.com/us/podcast/the-underworld-podcast/id1529370760)
+
 
 I write [here](https://medium.com/@tomiwaaribisala), how to reach me: [@tomiwah___](https://twitter.com/tomiwah___)
