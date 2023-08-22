@@ -3,8 +3,7 @@
 Passionate about learning everything Cloud/DevOps.
 
 # Skills
-- Linux
-- HTML 
+- Linux          - HTML 
 - CSS 
 - JavaScript
 - Git
@@ -21,4 +20,3 @@ Passionate about learning everything Cloud/DevOps.
 - Prometheus
 
 Blog: https://medium.com/@tomiwaaribisala
-
