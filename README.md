@@ -2,7 +2,7 @@
 I am a DevOps Engineer currently building [projects](https://github.com/cloud-devops-projects), contributing to OSS at [CNCF](https://clotributor.dev/), and interested in everything Cloud-Native.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,python,golang,html,css,js,aws,gcp,jenkins,ansible,prometheus,bash,git,terraform,gitlab,jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,python,golang,html,css,js,aws,gcp,jenkins,ansible,prometheus,bash,git,gitlab)](https://skillicons.dev)
 
 Aside from tech, I do music, books, and podcasts. Currently listening to [The UnderWorld Podcast](https://podcasts.apple.com/us/podcast/the-underworld-podcast/id1529370760)
 
