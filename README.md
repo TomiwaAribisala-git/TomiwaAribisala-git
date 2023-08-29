@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Tomiwa!
-I am a DevOps Engineer currently building side projects, contributing to OSS at [CNCF](https://clotributor.dev/), and interested in everything Cloud-Native.
+I am a DevOps Engineer currently building [projects](https://github.com/cloud-devops-projects), contributing to OSS at [CNCF](https://clotributor.dev/), and interested in everything Cloud-Native.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,python,golang,html,css,js,aws,gcp,jenkins,githubactions,ansible,prometheus,bash,git,terraform,gitlab,jira)](https://skillicons.dev)
