@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Tomiwa!
-I am a DevOps Engineer currently building [projects](https://github.com/cloud-devops-projects), learning Golang, and interested in everything SRE/Cloud-Native/Distributed Systems.
+I am a DevOps Engineer currently building projects, learning Golang and Python, and interested in everything SRE/Cloud-Native/Distributed Systems.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,python,golang,html,css,js,aws,gcp,jenkins,ansible,prometheus,bash,gitlab)](https://skillicons.dev)
