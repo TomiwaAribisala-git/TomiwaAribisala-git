@@ -1,5 +1,7 @@
 ## Hi there 👋, I am Tomiwa!
-I am a DevOps Engineer currently building projects, learning Golang and Python, and interested in everything SRE/Cloud-Native/Distributed Systems.
+I am a cloud infrastructure engineer with expertise in delivering software across multi-deployment environments, implementing devops practices, and maintaining cloud infrastructure. 
+
+Interests: Site Reliability Engineering, Cloud-Native, Distributed Systems.
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,python,golang,html,css,js,aws,gcp,jenkins,ansible,prometheus,bash,gitlab)](https://skillicons.dev)
