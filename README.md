@@ -4,7 +4,7 @@ I am a cloud infrastructure engineer with expertise in delivering software acros
 Interests: Site Reliability Engineering, Cloud-Native, Linux, Kernel, Distributed Systems.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,golang,algorithms,c,aws,jenkins,ansible,prometheus,bash,kernel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,golang,c,aws,githubactions,jenkins,ansible,prometheus,bash,grafana)](https://skillicons.dev)
 
 Aside from tech, I do music, books, and podcasts. Currently listening to [The UnderWorld Podcast](https://podcasts.apple.com/us/podcast/the-underworld-podcast/id1529370760)
 
