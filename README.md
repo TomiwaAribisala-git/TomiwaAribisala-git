@@ -6,4 +6,4 @@ My interests lie in Site Reliability Engineering, Linux Internals, Cloud-Native,
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,golang,c,aws,git,githubactions,gitlab,jenkins,ansible,bash,prometheus,grafana,terraform)](https://skillicons.dev)
 
-Aside from tech, I do music, books, and podcasts. I write [here](https://medium.com/@tomiwaaribisala), you can reach me: [@tomiwah___](https://twitter.com/tomiwah___)
+Aside from tech, I do music, books, and podcasts. You can reach me: [@tomiwah___](https://twitter.com/tomiwah___)
