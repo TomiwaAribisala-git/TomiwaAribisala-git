@@ -4,4 +4,4 @@ I am a cloud infrastructure engineer with expertise in implementing devops pract
 My interests lie in Site Reliability Engineering, Linux Internals, Cloud-Native, Networking, Systems Performance, and Distributed Systems.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,golang,c,aws,git,githubactions,gitlab,jenkins,ansible,bash,prometheus,grafana,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,golang,aws,azure,gcp,githubactions,gitlab,jenkins,ansible,bash,prometheus,grafana,terraform)](https://skillicons.dev)
